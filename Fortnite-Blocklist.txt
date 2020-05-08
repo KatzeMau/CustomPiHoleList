@@ -1,0 +1,8 @@
+#Fortnite-Blocklist
+www.cdn1.unrealengine.com
+www.cdn2.unrealengine.com
+static-assets-prod.epicgames.com
+epicgames.helpshift.com
+cdn2.unrealengine.com
+cdn1.unrealengine.com
+epicgames.com

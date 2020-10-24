@@ -19,3 +19,5 @@ https://raw.githubusercontent.com/KatzeMau/CustomPiHoleList/master/Fortnite-Bloc
 
 Go to youre pihole, *klick* on settings and then *klick* at the top on Blocklists *Scrolle* Down and paste the links above in the box and *klick* on Save and Update 
 
+#Copyright Problem ?
+Pls write an email to info@thecatcloud.de and we will take it offline
